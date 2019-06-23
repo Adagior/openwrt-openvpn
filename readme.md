@@ -9,4 +9,9 @@ openvpn --cd /etc/openvpn --config /etc/openvpn/vegas.ovpn
 ```
 
 https://gist.github.com/willwhui/1febd37a3dd79a503cc8544c3bb18ece
+
 http://blog.jqian.net/post/openwrt-openvpn.html
+
+
+pandorabox
+https://downloads.pangubox.com/pandorabox/19.02/targets/ralink/mt7621/
